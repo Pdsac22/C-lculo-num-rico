@@ -1,0 +1,12 @@
+
+git clone ....
+
+git add .
+ou
+git add nome_pasta/helloworld.py
+
+git commit -m "uma mensagem"
+
+git push
+
+git pull
